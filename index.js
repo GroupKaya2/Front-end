@@ -37,4 +37,4 @@ Orders.forEach(order => {
     tr.innerHTML = trContent;
     document.querySelector('tbody').appendChild(tr);
                         
-})
+});
